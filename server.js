@@ -2,6 +2,21 @@
 var express = require('express'),
 	bodyParser = require('body-parser'),
 	app = express();
+
+// var mysql = require("mysql");
+
+// if(process.env.JAWSDB_URL) {
+// 	connection = mysql.createConnection(process.env.JAWSDB_URL);
+// } else {
+// 	connection = mysql.createConnection({
+// 		host: "localhost",
+// 		user: "root",
+// 		password: "edwardhn",
+// 		database: ""
+// 	  });
+// }
+
+
 // Sets an initial port. We"ll use this later in our listener
 const PORT = process.env.PORT || 8080;
 // middleware parses data
