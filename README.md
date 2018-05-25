@@ -14,6 +14,6 @@ The main pages displays a nice welcome message with a link to the survey page to
 
 Moving on to the survery page you are presented with a form and questionaire to fill out that requires your name and photo image. You can then reply to the questionaire with choices from strongly agree to strongly disagree.
 
-![Screen shot} (images/Survery_Page.png)
+![Screen shot] (images/Survery_Page.png)
 
-![Screen shot} (images/Demo_Page.png)
+![Screen shot] (images/Demo_Page.png)
